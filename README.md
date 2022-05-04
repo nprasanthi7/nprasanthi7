@@ -2,11 +2,6 @@
 
 
 I am Prasanthi Nayunipati 
-![prasanthi.vvit@gmail.com](mail me here) 
-linkedin.com/in/nprasanthi7/ 
-https://github.com/nprasanthi7  
-jovian.ai/prasanthi-vvit 
-
 ### EDUCATION
 #### Data Science Bootcamp, Jovian                                                              October 2021 - Ongoing
 
