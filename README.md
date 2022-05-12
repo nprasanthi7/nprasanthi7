@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+# Prasanthi Nayunipati
+prasanthi.vvit@gmail.com  
 
-I am Prasanthi Nayunipati 
+[LinkedIn](http://linkedin.com/in/nprasanthi7)  | [Jovian](http://jovian.ai/prasanthi-vvit) | [Medium](https://medium.com/@nprasanthi7)
+ 
 ### EDUCATION
 #### Data Science Bootcamp, Jovian                                                              October 2021 - Ongoing
 
@@ -25,9 +28,9 @@ Courses: Electrical and few Electronics courses
 
 Highlights: Top 4 in the class, Achieved 1164th rank in GATE 2013. 
 ### SKILLS & CERTIFICATIONS 
-Online Courses: Machine Learning course by Andrew NG
+**Online Courses:** Machine Learning course by Andrew NG
 
-Skills: SQL, Python, Excel, Tableau, Git, Machine Learning, Google Analytics, Bash, Statistics & MATLAB/Simulink 
+**Skills:** SQL, Python, Excel, Tableau, Git, Machine Learning, Google Analytics, Bash, Statistics & MATLAB/Simulink 
 ### PROJECTS 
 #### Machine Learning Project on ASHRAE- Great Energy Predictor-III        
 * Working with ASHRAE dataset from Kaggle containing 20+ million train data and 41+ million test data.
