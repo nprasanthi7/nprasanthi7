@@ -25,12 +25,15 @@ Courses: Electrical and few Electronics courses
 
 Highlights: Top 4 in the class, Achieved 1164th rank in GATE 2013. 
 ### SKILLS & CERTIFICATIONS 
-Skills: SQL, Python, Tableau, Excel, Git, Machine Learning, Google Analytics, Bash and MATLAB/SIMULINK. 
+Online Courses: Machine Learning course by Andrew NG
+
+Skills: SQL, Python, Excel, Tableau, Git, Machine Learning, Google Analytics, Bash, Statistics & MATLAB/Simulink 
 ### PROJECTS 
-#### Machine Learning Project on ASHRAE- Great Energy Predictor-III**        
-Training set has 20+ million rows of data and the test set has 41+ million rows of data.
-Ongoing
-#### Exploratory Data Analysis of India's Weather And Its Impact On Renewable Energy**         
+#### Machine Learning Project on ASHRAE- Great Energy Predictor-III        
+* Working with ASHRAE dataset from Kaggle containing 20+ million train data and 41+ million test data.
+* Planning to fit random forest and LGBM algorithms and aimed to achieve below 30% score in leaderboard.
+
+#### Exploratory Data Analysis of India's Weather And Its Impact On Renewable Energy         
 * Analyzed 5.63 million rows of India's weather data containing 20 columns using Pandas.
 * Created visualizations (bar charts, choropleth maps, etc.) using Seaborn &  Plotly. 
 * Discovered that the solar power generation is more in summer & winter seasons while the  wind power generation is more in monsoon season. 
