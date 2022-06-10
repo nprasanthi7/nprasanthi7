@@ -1,48 +1,31 @@
-### Hi there 👋
+# Hi there 👋 I am Prasanthi Nayunipati
 
-# Prasanthi Nayunipati
-prasanthi.vvit@gmail.com  
+Data Science Enthusiast-Learning Data Science and Machine Learning skills over the past 8 months and built projects on web scraping, EDA, ML, SQL and Tableau.
+### Connect with me
 
-[LinkedIn](http://linkedin.com/in/nprasanthi7)  | [Jovian](http://jovian.ai/prasanthi-vvit) | [Medium](https://medium.com/@nprasanthi7)
- 
-### EDUCATION
-#### Data Science Bootcamp, Jovian                                                              October 2021 - Ongoing
+[![professional profiles](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nprasanthi7/)
+[![professional profiles](https://skillicons.dev/icons?i=twitter)](https://twitter.com/nprasanthi7)
 
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL &  Analytics 
 
-Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML).
+ [Jovian](http://jovian.ai/prasanthi-vvit) | [Medium](https://medium.com/@nprasanthi7)
+### Skill set
+[![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/doc/)
+[![My Skills](https://skillicons.dev/icons?i=bash)]()
+[![My Skills](https://skillicons.dev/icons?i=css)]()
+[![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html/)
+[![My Skills](https://skillicons.dev/icons?i=git )](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github )]()
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=octave )]()
+[![My Skills](https://skillicons.dev/icons?i=ovscode )]()
+[![My Skills](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/)
+[![My Skills](https://skillicons.dev/icons?i=scikit)](https://scikit-learn.org/stable/)
 
-#### National Institute of Technology Karnataka, Surathkal, India                                  2013 - 2015 
 
-M.Tech, Power and Energy Systems (CGPA: 8.62/10) 
 
-Courses: Related to Power and Energy Systems 
 
-Highlights: Top most rank in the class, PPSA 2016 Award towards the project (Wind Energy  Systems), published 4 research papers and received 2 best paper awards. 
 
-#### Vasireddy Venkatadri Institute of Technology Namburu, AP, India                             2009-2013 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nprasanthi7&layout=compact)](https://github.com/nprasanthi7/github-readme-stats)
 
-B.Tech, Electrical & Electronics Engineering (85%) 
 
-Courses: Electrical and few Electronics courses
-
-Highlights: Top 4 in the class, Achieved 1164th rank in GATE 2013. 
-### SKILLS & CERTIFICATIONS 
-**Online Courses:** Machine Learning course by Andrew NG
-
-**Skills:** SQL, Python, Excel, Tableau, Git, Machine Learning, Google Analytics, Bash, Statistics & MATLAB/Simulink 
-### PROJECTS 
-#### Machine Learning Project on ASHRAE- Great Energy Predictor-III        
-* Working with ASHRAE dataset from Kaggle containing 20+ million train data and 41+ million test data.
-* Planning to fit random forest and LGBM algorithms and aimed to achieve below 30% score in leaderboard.
-
-#### Exploratory Data Analysis of India's Weather And Its Impact On Renewable Energy         
-* Analyzed 5.63 million rows of India's weather data containing 20 columns using Pandas.
-* Created visualizations (bar charts, choropleth maps, etc.) using Seaborn &  Plotly. 
-* Discovered that the solar power generation is more in summer & winter seasons while the  wind power generation is more in monsoon season. 
-#### Scraping Electricity Production of Different Countries and the Indian States using Python 
-* Scraped different countries and the Indian states from Wikipedia using Requests, Beautiful  Soup, and Pandas. 
-### WORK EXPERIENCE
-* Worked as a Subject Matter Expert in Chegg India Pvt. Ltd. from October 2017 to May 2021. 
-* Worked as an Assistant Professor for St. Ann's Engineering College from June 2016 to May 2017. 
-* Worked as an Assistant Lecturer for NITK, Surathkal from July 2015 to December 2015.
+![Prasanthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nprasanthi7&count_private=true&show_icons=true&theme=merko)
