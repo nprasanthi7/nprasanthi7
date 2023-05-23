@@ -1,6 +1,6 @@
 # Hi there 👋 I am Prasanthi Nayunipati
 
-Passionate about **solving business problems** using Data Science & Machine Learning-Learning Data Science and Machine Learning skills over the past 9 months and built projects on web scraping, EDA, ML, SQL and Tableau.
+Passionate about **solving business problems** using Data Science & Machine Learning.
 ### Connect with me
 
 [![professional profiles](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nprasanthi7/)
